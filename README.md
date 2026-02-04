@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isColumnMajorString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-column-major-string@esm/index.mjs';
+import isColumnMajorString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-column-major-string@v0.1.1-esm/index.mjs';
 ```
 
 #### isColumnMajorString( value )
@@ -93,7 +93,7 @@ bool = isColumnMajorString( 'row-major' );
 <body>
 <script type="module">
 
-import isColumnMajorString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-column-major-string@esm/index.mjs';
+import isColumnMajorString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-column-major-string@v0.1.1-esm/index.mjs';
 
 var bool = isColumnMajorString( 'column-major' );
 // returns true
